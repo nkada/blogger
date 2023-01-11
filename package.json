@@ -23,7 +23,7 @@
     "gatsby-source-contentful": "^2.0.18",
     "gatsby-source-filesystem": "^2.0.8",
     "gatsby-source-google-sheets": "^1.1.1",
-    "gatsby-transformer-remark": "^2.1.19",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.1.8",
     "google-map-react": "^1.1.1",
     "google-maps-react": "^2.0.2",
